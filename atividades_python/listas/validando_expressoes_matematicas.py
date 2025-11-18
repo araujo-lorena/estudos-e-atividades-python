@@ -4,3 +4,7 @@ que use parênteses.
 Seu aplicativo deverá analisar se a expressão passada 
 está com os parênteses abertos e fechados na ordem correta.
 '''
+
+expressao_matematica =[ input("Digite uma expressão matemática com parênteses: ")]
+
+#Finalizar depois

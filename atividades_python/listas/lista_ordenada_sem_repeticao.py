@@ -14,10 +14,8 @@ while contador < 5:
    contador += 1
    numeros_digitados += [numero]
 
-   if numero > numeros_digitados[-1]:
+   if numero > numeros_digitados:
       numeros_digitados.append(numero)
-   else:
-      numeros_digitados.insert(-2, numero)
 
 print(numeros_digitados,",")
 
