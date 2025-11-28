@@ -21,18 +21,17 @@ Conjuntos são coleções não ordenadas e mutáveis de elementos únicos."""
 """
 
 #Ex:
+"""conjunto_a = {1, 2, 3, 4, 5}
+conjunto_b = set([4, 5, 6, 7, 8])
 
-""" conjunto_a = {1, 2, 3, 4, 5}
-    conjunto_b = set([4, 5, 6, 7, 8])
-
-    uniao = conjunto_a | conjunto_b
-    print(uniao)
-    intersecao = conjunto_a & conjunto_b
-    print(intersecao)
-    diferenca = conjunto_a - conjunto_b
-    print(diferenca)
-    diferenca_simetrica = conjunto_a ^ conjunto_b
-    print(diferenca_simetrica) """
+uniao = conjunto_a | conjunto_b 
+print(uniao)
+intersecao = conjunto_a & conjunto_b
+print(intersecao)
+diferenca = conjunto_a - conjunto_b
+print(diferenca)
+diferenca_simetrica = conjunto_a ^ conjunto_b
+print(diferenca_simetrica) """
 
 
 
