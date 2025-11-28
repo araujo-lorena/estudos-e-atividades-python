@@ -1,0 +1,49 @@
+# Métodos de strings em Python
+
+'''
+1. Capitalize() => Converte o primeiro caractere em maiúscula
+2. Casefold() => Converte a string em minúscula
+3. Center() => Retorna uma string centralizada
+4. Count() => Retorna o número de vezes que um valor especificado ocorre em uma string
+5. Encode() => Retorna uma versão codificada da string
+6. Endswith() => Retorna verdadeiro se a string terminar com o valor especificado
+7. Expandtabs() => Define o tamanho da tabulação da string
+8. Find() => Procura na string um valor especificado e retorna a posição onde foi encontrado
+9. Format() => Formata valores especificados em uma string
+10. Format_map() => Formata valores especificados em uma string
+11. Index() => Procura na string um valor especificado e retorna a posição onde foi encontrado
+12. Isalnum() => Retorna verdadeiro se todos os caracteres na string forem alfanuméricos
+13. Isalpha() => Retorna verdadeiro se todos os caracteres na string forem do alfabeto
+14. Isascii() => Retorna verdadeiro se todos os caracteres na string forem caracteres ASCII
+15. Isdecimal() => Retorna verdadeiro se todos os caracteres na string forem decimais
+16. Isdigit() => Retorna verdadeiro se todos os caracteres na string forem dígitos
+17. Isidentifier() => Retorna verdadeiro se a string for um identificador
+18. Islower() => Retorna verdadeiro se todos os caracteres na string forem minúsculos
+19. Isnumeric() => Retorna verdadeiro se todos os caracteres na string forem numéricos
+20. Isprintable() => Retorna verdadeiro se todos os caracteres na string forem imprimíveis
+21. Isspace() => Retorna verdadeiro se todos os caracteres na string forem espaços em branco
+22. Istitle() => Retorna verdadeiro se a string seguir as regras de um título
+23. Isupper() => Retorna verdadeiro se todos os caracteres na string forem maiúsculos
+24. Join() => Junta os elementos de um iterável ao final da string
+25. Ljust() => Retorna uma versão justificada à esquerda da string
+26. Lower() => Converte uma string para minúsculas
+27. Lstrip() => Retorna uma versão com espaços à esquerda removidos da string
+28. Maketrans() => Retorna uma tabela de tradução a ser usada em traduções
+29. Partition() => Retorna uma tupla onde a string é dividida em três partes
+30. Replace() => Retorna a string onde um valor especificado é substituído por um valor especificado
+31. Rfind() =>Procura na string um valor especificado e retorna a última posição onde foi encontrado
+32. Rindex() =>	Procura na string um valor especificado e retorna a última posição onde foi encontrado
+33. Rjust() => Retorna uma versão justificada à direita da string
+34. Rpartition() => Retorna uma tupla onde a string é dividida em três partes
+35. Rsplit() => Divide a string no separador especificado e retorna uma lista
+36. Rstrip() => Retorna uma versão com espaços à direita removidos da string
+37. Split() => Divide a string no separador especificado e retorna uma lista
+38. Splitlines() => Divide a string nas quebras de linha e retorna uma lista
+39. Startswith() => Retorna verdadeiro se a string começar com o valor especificado
+40. Strip() => Retorna uma versão com espaços removidos da string
+41. Swapcase() => Inverte os casos, minúsculas tornam-se maiúsculas e vice-versa
+42. Title() => Converte o primeiro caractere de cada palavra para maiúscula
+43. Translate() => Retorna uma string traduzida
+44. Upper() => Converte uma string para maiúsculas
+45. Zfill() => Preenche a string com um número especificado de valores 0 no início
+'''
