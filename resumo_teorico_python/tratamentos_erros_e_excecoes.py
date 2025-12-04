@@ -77,7 +77,7 @@ else:
     print(f"O resultado é: {resultado}")    
 """
 
-# FINALLY
+# FINALLY e Arquivos
 
 """O bloco finally é opcional e é sempre executado, independentemente de uma exceção
 ter sido gerada ou não. É útil para liberar recursos, como fechar arquivos ou conexões
